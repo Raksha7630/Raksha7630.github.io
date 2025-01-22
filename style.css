@@ -1,0 +1,31 @@
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+}
+.container{
+    width: 1000 px;
+    margin: 16 px;
+}
+nav li{
+    display: inline;
+    margin-inline-start: 50 px;
+}
+nav a:hover{
+    color:green;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+img{
+    size-adjust: auto;
+    
+
+}
+footer{
+    font-size: small;
+    font-style: normal;
+    font-display: blue;
+    background-color: darkgrey;
+    padding: 50 px;
+}

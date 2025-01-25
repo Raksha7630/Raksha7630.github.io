@@ -4,12 +4,12 @@ body{
     background-color: white;
 }
 .container{
-    width: 1000 px;
-    margin: 16 px;
+    width: 1000px;
+    margin: 16px;
 }
 nav li{
     display: inline;
-    margin-inline-start: 50 px;
+    margin-inline-start: 50px;
 }
 nav a:hover{
     color:green;
@@ -27,5 +27,5 @@ footer{
     font-style: normal;
     font-display: blue;
     background-color: darkgrey;
-    padding: 50 px;
+    padding: 20px;
 }
